@@ -2,6 +2,7 @@
 ## Make directory
 ## Make local directory
 
+```bash
 AIFFEL_quest_rs/
 ├── Exploration
 │   ├── Ex01
@@ -28,7 +29,6 @@ AIFFEL_quest_rs/
 │   ├── Ex08
 │   │   ├── Ex08.ipynb
 │   │   └── README.md
-│   ├── Exploration.ipynb
 │   └── README.md
 ├── GoingDeeper
 │   ├── GD01
@@ -55,10 +55,8 @@ AIFFEL_quest_rs/
 │   ├── GD08
 │   │   ├── GD08.ipynb
 │   │   └── README.md
-│   ├── GoingDeeper.ipynb
 │   └── README.md
 ├── MainQuest
-│   ├── MainQuest.ipynb
 │   ├── Quest01
 │   │   ├── Quest01.ipynb
 │   │   └── README.md
@@ -84,5 +82,5 @@ AIFFEL_quest_rs/
 │   │   ├── Quest08.ipynb
 │   │   └── README.md
 │   └── README.md
-├── README.ipynb
-└── README.md
+├── README.md
+└── tree.txt
