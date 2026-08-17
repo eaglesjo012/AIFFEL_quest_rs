@@ -26,8 +26,11 @@ AIFFEL_quest_rs/
 │   ├── Ex07
 │   │   ├── Ex07.ipynb
 │   │   └── README.md
-│   └── Ex08
-│       ├── Ex08.ipynb
+│   ├── Ex08
+│   │   ├── Ex08.ipynb
+│   │   └── README.md
+│   └── Ex09
+│       ├── Ex09.ipynb
 │       └── README.md
 ├── GoingDeeper
 │   ├── GD01
