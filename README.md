@@ -76,5 +76,4 @@ AIFFEL_quest_rs/
 │   └── Quest05
 │       ├── Quest05.ipynb
 │       └── README.md
-├── README.md
-└── tree.txt
+└──  README.md
